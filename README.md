@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ghaithvaroxez
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning flutter
+- 🌱 I’m flutter developer with almost 2 years of experiance
 - 📫 How to reach me ghaithvaroxez@gmail.com
 
 <!---
